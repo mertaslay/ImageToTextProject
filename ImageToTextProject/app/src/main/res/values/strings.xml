@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImageToText</string>
+    <string name="my_notes">My Notes</string>
+    <string name="search_notes">Search notes</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_subtitle">Note Subtitle</string>
+    <string name="type_note_here">Type note here..</string>
+    <string name="date">EEEE, dd MMMM yyyy HH:mm a</string>
+</resources>

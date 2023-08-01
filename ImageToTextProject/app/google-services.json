@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1071729555321",
+    "project_id": "bitirmeprojesi-4e451",
+    "storage_bucket": "bitirmeprojesi-4e451.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071729555321:android:241f095f16d2c444ea21a8",
+        "android_client_info": {
+          "package_name": "com.example.imagetotext_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs6jkjX1GeD8BIMAOHcfhhrp-Gr1cmq3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
